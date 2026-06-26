@@ -19,7 +19,7 @@ El proyecto se encuentra completamente deployado en una única URL que funciona 
 1. El [prompt](https://pfo-2-futuro-digital.vercel.app/prompt.html) exacto utilizado
 
 2. Landing Page generada por [Claude Code](https://pfo-2-futuro-digital.vercel.app/claude-code/index.html)   
-   **Capturas de Pantalla**\!\[Claude Code Landing\](index-screenshot\_Claude.png)
+   **Capturas de Pantalla**\![Claude Code Landing](index-screenshot_Claude.png)
 
 3. Landing Page generada por [Gemini Pro](https://pfo-2-futuro-digital.vercel.app/gemini/index.html)   
    **Capturas de Pantalla**\!\[Gemini Landing\](index-screenshot\_Gemini.png) 
