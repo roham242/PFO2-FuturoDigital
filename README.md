@@ -18,10 +18,12 @@ El prompt exacto utilizado
 
 
 Landing Page generada por Claude Code https://pfo-2-futuro-digital.vercel.app/claude-code/index.html 
+
 Capturas de Pantalla![Claude Code Landing](index-screenshot_Claude.png)
 
 
 Landing Page generada por Gemini Pro https://pfo-2-futuro-digital.vercel.app/gemini/index.html
+
 Capturas de Pantalla![Gemini Landing](index-screenshot_Gemini.png) 
 
 📝 Prompt Exacto Utilizado
