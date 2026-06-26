@@ -22,7 +22,7 @@ El proyecto se encuentra completamente deployado en una única URL que funciona 
    **Capturas de Pantalla**\![Claude Code Landing](index-screenshot_Claude.png)
 
 3. Landing Page generada por [Gemini Pro](https://pfo-2-futuro-digital.vercel.app/gemini/index.html)   
-   **Capturas de Pantalla**\!\[Gemini Landing\](index-screenshot\_Gemini.png) 
+   **Capturas de Pantalla**\![Gemini Landing](index-screenshot_Gemini.png)
 
 ---
 
