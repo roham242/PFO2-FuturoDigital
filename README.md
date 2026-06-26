@@ -1,9 +1,14 @@
 Futuro Digital - PFO2 Prompt Engineering en Agentes de IA
 👤 Datos del Estudiante
+
 Nombre y Apellido: Rocío Jiménez Espada H. (Roji)
+
 Institución: Instituto de Formación Técnica Superior (IFTS) N.° 29
+
 Asignatura: Desarrollo de Sistemas Web (Front End)
+
 Comisión: Lunes
+
 Fecha de Entrega: 26 de Junio de 2026
 
 🚀 Deploy Unificado
